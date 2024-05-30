@@ -1,0 +1,16 @@
+{
+    "name": "user/hestia",
+    "description": "Culinary Site Project",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "cboden/ratchet": "^0.4.4"
+    },
+    "authors": [
+        {
+            "name": "AleksTolstik",
+            "email": "oleksii.tolstik@nure.ua"
+        }
+    ],
+    "minimum-stability": "stable"
+}
